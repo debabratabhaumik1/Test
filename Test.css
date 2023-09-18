@@ -1,0 +1,46 @@
+﻿body {
+    /*Debabrata*/
+    body
+
+{
+    text-align: center;
+}
+
+h2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.logo {
+    width: 50px;
+    height: auto;
+    margin-left: 15px;
+}
+
+.mycontainer {
+    max-width: 910px;
+    margin: 0 auto;
+}
+
+th {
+    text-align: center;
+}
+
+input {
+    text-align: center;
+}
+
+    input[type="checkbox"] {
+        /* 		width: 18px; 
+    height: 18px;		 */
+    }
+
+.row-total {
+    font-size: 15px;
+}
+
+.author {
+    margin-top: 150px;
+}
+/*Debabrata*/
+}
